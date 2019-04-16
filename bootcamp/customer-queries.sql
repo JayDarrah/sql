@@ -3,4 +3,6 @@ SELECT *
 	WHERE Sales > '30000000'
     AND Sales < 70000000
 	ORDER BY Sales DESC;
---  WHERE State = 'HI';
+
+SELECT Name AS 'Customer Name', Sales AS 'Total Sales'
+	FROM customer;
