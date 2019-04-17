@@ -2,6 +2,7 @@
 --CREATE DATABASE module4;
 use module4;
 
+
 CREATE TABLE Customer (
 	ID int not null primary key auto_increment,
 	Name nvarchar(50) not null,
