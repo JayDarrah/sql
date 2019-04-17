@@ -25,6 +25,5 @@ Insert Customer (Name, City, State, Sales, Active) Values ('Demo, Inc.','Las Veg
 Insert into Customer (Name,City,State,Sales,Active)
 	Values
     ('Super Cool Computers', 'Cinci', 'OH', 9393939, 1),
-    ('Target', 'Cinci', 'OH', 43332, 1),
-    ('Heckin Hot Haberdachery', 'Dayton', 'KY', 88849, 1);
+    ('Target', 'Cinci', 'OH', 43332, 1);
     
