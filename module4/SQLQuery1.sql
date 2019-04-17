@@ -1,0 +1,3 @@
+SELECT Name, Sales FROM Customer
+-- ORDER BY Sales DESC
+WHERE Sales >= 30000000 AND Sales < 40000000
